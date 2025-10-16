@@ -11,5 +11,6 @@ Entregables: Matriz CSV completa + 3–5 hallazgos en este README.
 5. Se requiere implementar **validaciones funcionales adicionales** para evitar turnos solapados, mejorando la corrección funcional del sistema.
 
 **Conclusiones**
+
 En general, el sistema cumple con su objetivo principal de gestionar turnos médicos, pero las pruebas revelaron varios aspectos que pueden mejorarse para lograr una experiencia más fluida, segura y confiable. 
 Los hallazgos relacionados con el rendimiento, la seguridad de las sesiones y la usabilidad en distintos dispositivos nos muestran que aún hay espacio para optimizar tanto la parte técnica como la interacción del usuario. Estos ajustes no solo mejorarán la eficiencia del sistema, sino también la confianza de quienes lo usan a diario.
